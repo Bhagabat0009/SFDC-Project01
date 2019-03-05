@@ -1,3 +1,3 @@
-public class Generic_class{
+Global class Generic_class{
 
 }
